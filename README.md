@@ -9,7 +9,7 @@
     <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+        <img src="https://skillicons.dev/icons?i=c,java,ts" />
       </a>
     </p>
     
